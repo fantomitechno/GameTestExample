@@ -9,7 +9,7 @@ however you could have the two in a same sourceSet, but the rest of this explana
 
 ### Gradle configuration
 
-I added 
+In `build.gradle`, I added 
 ```groovy
 sourceSets {
     testmod {
